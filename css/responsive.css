@@ -1,0 +1,366 @@
+@media (max-width: 700px){
+    nav{
+        font-size: 15px!important;
+        width: 100%;
+        text-align: center;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        /* overflow-y: hidden;
+        overflow-x: hidden; */
+    }
+    .nav-link{
+        font-size: 15px!important;
+    }
+    .nav-link button{
+        width: 50%;
+        font-size: 16px;
+    }
+    .ph-on{
+        width: 100%;
+        height: 400px;
+        object-fit: cover!important;
+        border-radius: 40px;
+    }
+    .md-1{
+        background-size: cover!important;
+        object-fit: cover!important;
+        width: 92.5%!important;
+        height: 400px;
+        margin-top: 172px;
+        margin-left: 0px;
+        background-position: center!important;
+        background-repeat: no-repeat!important;
+        margin-right: 15px!important;
+        padding: 35px;
+    }
+    .parallax-part{
+    }
+    .ph{
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 35px!important;
+    }
+    .ph-p{
+        font-size: 13px;
+        text-align: center;
+        margin-bottom: 35px!important;
+    }
+    .read{
+        padding: 8px 15px !important;
+        margin-top: 25px!important;
+        margin-left: 55px;
+    }
+    .btn-1{
+        padding: 5px 0px!important;
+        font-size: 12px!important;
+    }
+    .service-tag{
+        font-size: 1.5rem;
+    }
+    .tags i{
+        font-size: 30px;
+        text-align: center;
+    }
+    .tags{
+        padding: 10px 5px!important;
+
+    }
+    .e-t{
+        width: 70px;
+        height: 70px;
+    }
+    .tag-gap h2{
+        font-size: 16px;
+    }
+    .tag-gap p{
+        font-size: 13px;
+    }
+    .tagline{
+        margin-left: 0px!important;
+        width: 100%;
+    }
+    .back-1{
+        height: 1030px!important;
+        position: relative;
+    }
+    .camera{
+        width: 100%;
+        height: 100%;
+    }
+    .cm{
+        padding: 40px 0;
+    }
+    .cm h1{
+        font-size: 22px;
+        text-align: center;
+        padding-left: 12px;
+        color: #06283D!important    ;
+    }
+    .cm p{
+        font-size: 13px;
+        text-align: left;
+        color: #06283D!important;
+        margin: 10px;
+    }
+    .about-us{
+        height: 1020px!important;
+    }
+    .p-cm{
+        text-align: center!important;
+        padding-right: 90px!important;
+    }
+    .cm-1{
+        padding-right: 80px!important;
+    }
+    .pricing{
+        height: 1380px;
+    }
+    .pricing-tag h4{
+        font-size: 16px;
+    }
+    .pricing-tag p{
+        font-size: 18px;
+    } 
+    .pr{
+        width: 82%!important;
+        height: 100%;
+    }
+    .pr h1{
+        font-size: 25px;
+    }
+    .pr h3{
+        font-size: 16px;
+    }
+    .pr p{
+        font-size: 13px; 
+    }
+    .btn-p{
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    .pr-row{
+        display: flex!important;
+        flex-wrap: nowrap!important;
+        flex-direction: column!important;    
+        
+    } 
+    .works-tag h4{
+        font-size: 16px;
+    }  
+    .works-tag h2{
+        font-size: 21px;
+    }
+    .only-b img{
+        width: 100%!important;
+        margin: 10px 0px!important;
+    }
+    .pro-line{
+        width: 90%!important;
+        margin-left: 15px;
+        position: relative;
+        height: 750px;
+    }
+    .competence{
+        overflow-x: hidden;
+        box-sizing: border-box;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .competence h5{
+        font-size: 16px;
+        margin-bottom: 15px;
+        padding-left: 0px;
+    }
+    .competence h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-left: 0;
+    }
+    .competence p{
+        font-size: 13px;
+        padding-left: 0!important;
+    }
+    .progress{
+        height: 950px!important;
+    }
+    .wrap-t p{
+        font-size: 12px;
+        padding: 0px 54px;
+        margin: 7px 0px;
+    }
+    .wrap-t{
+        display: flex!important;
+        -webkit-justify-content: space-between!important;
+        margin-left: -200px!important;
+    }
+    .line1{
+        margin: 0px;
+        padding: 0px;
+    }
+    progress{
+        width: 80%!important;
+        margin-left: 30px!important;
+    }
+    .lines{
+        margin-top: 10px;
+    }
+    .accord-question{
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        width: 94%!important;
+        margin-left: 10px;
+        box-sizing: border-box;
+        height: 650px;
+    }
+    .accord h1{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .accordion{
+        font-size: 16px!important;
+        margin-left: 20px!important;
+    }
+    .accordion:after{
+        font-size: 16px!important;
+    }
+    .questions{
+        height: 850px!important;
+    }
+    .accord img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .row-tag{
+        margin-top: 0px!important;
+        padding: 0!important;
+    }
+    .cl-img{
+        width: 280px!important;
+        margin-left: 20px;
+        margin-bottom: 10px!important;
+        padding-left: -10px!important;
+    }
+    .cl-img img{
+        width: 120px;
+        text-align: center;
+    }
+    .client-tag h4{
+        font-size: 16px;
+        text-align: center!important;
+        color: #06283D;
+    }
+    .client-tag h3{
+        font-size: 20px;
+        text-align: center!important;
+        color: #06283D;
+    }
+    .client-part{
+        height: 1540px!important;
+    }
+    .text-center{
+        width: 100%!important;
+    }
+    .hello{
+        position: relative;
+        height: 500px;
+    }
+    .helloclass p{
+        font-size: 16px;
+    }
+    .helloclass h1{
+        font-size: 26px;
+    }
+    .helloclass a{
+        font-size: 15px;
+        color: #06283D;
+        text-decoration: none;
+    
+    }
+    .helloclass{
+        width: 94%!important;
+        margin-left: -80px;
+        text-align: center;
+        position: absolute;
+    }
+    .helloclass a:hover{
+        text-decoration: underline!important;
+        color: #06283D;
+    }
+    .intro-pic img{
+        width: 100%;
+    }
+    .intro div{
+        margin-top: -160px;
+    }
+    .cont-us h3{
+        font-size: 20px;
+    }
+    .cont-us{
+        text-align: center;
+        width: 300px!important;
+        margin-left: -190px!important;
+        
+    }
+    .cont-fo{
+        position: relative;
+        margin-left: 12px;
+    }
+    form input{
+        width: 40%!important;
+        margin: 10px!important;
+    }
+    form .button{
+        font-size: 12px!important;
+        width: 50%!important;
+        padding: 8px!important;
+    }
+    .last-col h4{
+        font-size: 15px!important;
+
+    }
+    .last-col p{
+        font-size: 12px;
+        padding-right: 50px;
+    }
+    .last-col{
+        margin-left: 13px;
+    }
+    .ul-1 h4{
+        font-size: 15px;
+    }
+    .ul-1 a{
+        font-size: 12px;
+        padding-left: 11px;
+    }
+    .ul-1 a:hover{
+        text-decoration: underline!important;
+    }
+    .ul-2 h4{
+        font-size: 15px;
+    }
+    .ul-2 a{
+        font-size: 12px;
+        padding-left: 4.5px;
+    }
+    .ul-2 a:hover{
+        text-decoration: underline!important;
+    }
+    .ul-3 h4{
+        font-size: 15px;
+    }
+    .ul-3 a{
+        font-size: 12px;
+        padding-left: 2.5px;
+    }
+    .ul-3 a:hover{
+        text-decoration: underline!important;
+    }
+    .last-ul{
+        margin-top: 18px!important;
+        margin-left: -72px;
+    }
+}
